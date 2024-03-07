@@ -2,6 +2,7 @@
   "name": "test_4",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://prakhar777.github.io/test_4/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -13,7 +14,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "homepage": "https://prakhar777.github.io/test_4/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",

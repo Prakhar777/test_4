@@ -13,6 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "homepage": "https://prakhar777.github.io/test_4/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
